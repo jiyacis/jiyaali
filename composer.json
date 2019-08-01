@@ -1,0 +1,15 @@
+{
+    "name": "jiyaali/helloworld",
+    "description": "This is Hello World package by jiyaali",
+    "authors": [
+        {
+            "name": "Jiya Ali",
+            "email": "wajiha@nextgeni.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": 
+    {
+        "php": "^7.1.3"
+    }
+}
